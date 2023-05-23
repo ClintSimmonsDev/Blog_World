@@ -5,7 +5,7 @@
       padding: 0 20px;
       font-family: 'Noto Serif', serif;
       max-width: 1200px;
-      background: linear-gradient(to bottom, #FFFFFF, #333333);
+      background: linear-gradient(to bottom, #FFFFFF, #68b7fc);
     }
     p, h1, h2, h3, a, ul{
       margin: 0;
@@ -38,6 +38,7 @@
       font-size: 3em;
       font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
       text-shadow: 0 0 5px rgb(112, 213, 246);
+      padding-bottom: 18px;
     }
     nav p, nav a{
       color: #777;
